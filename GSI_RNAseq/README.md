@@ -36,5 +36,5 @@ vi runSTAR.sh
 ```
 **STEP 4: Build index and run alignmer on cluster:**
 ```
-sbatch run_star.sh /CLUSTERPATH/FILE1_R1.fastq.gz /CLUSTERPATH/FILE1_R2.fastq.gz
+sbatch runSTAR.sh /CLUSTERPATH/FILE1_R1.fastq.gz /CLUSTERPATH/FILE1_R2.fastq.gz
 ```
